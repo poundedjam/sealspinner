@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sealspinnering/static/css/main.6af8d512.chunk.css",
+    "main.js": "/sealspinnering/static/js/main.be5c2e5b.chunk.js",
+    "main.js.map": "/sealspinnering/static/js/main.be5c2e5b.chunk.js.map",
+    "runtime-main.js": "/sealspinnering/static/js/runtime-main.22d6dfd8.js",
+    "runtime-main.js.map": "/sealspinnering/static/js/runtime-main.22d6dfd8.js.map",
+    "static/js/2.d414273e.chunk.js": "/sealspinnering/static/js/2.d414273e.chunk.js",
+    "static/js/2.d414273e.chunk.js.map": "/sealspinnering/static/js/2.d414273e.chunk.js.map",
+    "static/js/3.927e4a1e.chunk.js": "/sealspinnering/static/js/3.927e4a1e.chunk.js",
+    "static/js/3.927e4a1e.chunk.js.map": "/sealspinnering/static/js/3.927e4a1e.chunk.js.map",
+    "index.html": "/sealspinnering/index.html",
+    "static/css/main.6af8d512.chunk.css.map": "/sealspinnering/static/css/main.6af8d512.chunk.css.map",
+    "static/js/2.d414273e.chunk.js.LICENSE.txt": "/sealspinnering/static/js/2.d414273e.chunk.js.LICENSE.txt",
+    "static/media/seal.84e0d9d3.png": "/sealspinnering/static/media/seal.84e0d9d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22d6dfd8.js",
+    "static/js/2.d414273e.chunk.js",
+    "static/css/main.6af8d512.chunk.css",
+    "static/js/main.be5c2e5b.chunk.js"
+  ]
+}
